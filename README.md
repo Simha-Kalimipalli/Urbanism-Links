@@ -3,36 +3,34 @@ Useful Urbanism Links
 
 
 # Youtube
-___
 ## Name 
 RMTransit
 
-## desciption
+### desciption
 Reece explains the How-to's of transit
 
-## Channel Link
+### Channel Link
 https://www.youtube.com/@RMTransit
 
-## Coverage Region:
+### Coverage Region:
 Global
 
-## Langauge:
+### Langauge:
 English
-___
 
 ## Name 
 CityNerd
 
-## Description
+### Description
 Ray ranks cities in terms of urbanism
 
-## Channel Link
+### Channel Link
 https://www.youtube.com/c/citynerd
 
-## Coverage Region:
+### Coverage Region:
 North America
 
-## Langauge:
+### Langauge:
 English
 ___
 
@@ -40,15 +38,15 @@ ___
 ## Name 
 Alan Fisher
 
-## Description 
+### Description 
 Alan talks about issues affecting urbanism in North America
 
-## Channel Link
+### Channel Link
 https://www.youtube.com/@alanthefisher
 
-## Coverage Region:
+### Coverage Region:
 North America
 
-## Langauge:
+### Langauge:
 English
 ___
