@@ -1,10 +1,9 @@
 # Urbanism-Links
 Useful Urbanism Links
 
-
 # Youtube
-## Name 
-RMTransit
+
+## RMTransit
 
 ### desciption
 Reece explains the How-to's of transit
@@ -18,8 +17,7 @@ Global
 ### Langauge:
 English
 
-## Name 
-CityNerd
+## CityNerd
 
 ### Description
 Ray ranks cities in terms of urbanism
@@ -32,11 +30,8 @@ North America
 
 ### Langauge:
 English
-___
 
-
-## Name 
-Alan Fisher
+## Alan Fisher
 
 ### Description 
 Alan talks about issues affecting urbanism in North America
@@ -49,4 +44,4 @@ North America
 
 ### Langauge:
 English
-___
+
