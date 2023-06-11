@@ -14,7 +14,7 @@ https://www.youtube.com/@RMTransit
 ### Coverage Region:
 Global
 
-### Langauge:
+### Language:
 English
 
 ## CityNerd
@@ -28,7 +28,7 @@ https://www.youtube.com/c/citynerd
 ### Coverage Region:
 North America
 
-### Langauge:
+### Language:
 English
 
 ## Alan Fisher
@@ -42,6 +42,11 @@ https://www.youtube.com/@alanthefisher
 ### Coverage Region:
 North America
 
-### Langauge:
+### Language:
 English
+
+oh the urbanity
+
+not just bikes
+
 
