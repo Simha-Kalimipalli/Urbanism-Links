@@ -45,7 +45,20 @@ North America
 ### Language:
 English
 
-oh the urbanity
+## Oh The Urbanity
+
+### Description 
+Alan talks about issues affecting urbanism in North America
+
+### Channel Link
+https://www.youtube.com/@alanthefisher
+
+### Coverage Region:
+North America
+
+### Language:
+English
+
 
 not just bikes
 
