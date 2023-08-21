@@ -58,15 +58,59 @@ English
 
 
 ## Name
+CityBeautiful
 
 ### Description 
-..........................
+Dave talks about urban planning
 
 ### Channel Link
-https://www.youtube.com/
+https://www.youtube.com/@CityBeautiful
 
 ### Coverage Region:
 North America
 
 ### Language:
 English
+
+
+## Name
+Lastlyy
+
+### Description 
+Lastlyy talks about metro and railway construction in India
+
+### Channel Link
+[https://www.youtube.com/@CityBeautiful
+](https://www.youtube.com/@Lastlyy
+)
+### Coverage Region:
+Asia
+
+### Language:
+Hindi 
+
+
+## Name
+AboutHere
+
+### Description 
+Utyae taloks about Urban issue in Vancouver 
+
+### Channel Link
+https://www.youtube.com/@AboutHere
+
+### Coverage Region:
+North America
+
+### Language:
+English 
+
+https://www.youtube.com/@RailwaysExplained
+https://www.youtube.com/@MetroRailBlog
+https://www.youtube.com/@VanishingUnderground
+https://www.youtube.com/@MetroLiner
+https://www.youtube.com/@BrightTripTravel
+https://www.youtube.com/@JohnnyStrides
+
+https://www.youtube.com/@PaigeMTL
+https://www.youtube.com/@strongtowns
