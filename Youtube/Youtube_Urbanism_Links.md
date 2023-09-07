@@ -94,7 +94,7 @@ Hindi
 AboutHere
 
 ### Description 
-Utyae taloks about Urban issue in Vancouver 
+Uytae talks about Urban issues in Vancouver 
 
 ### Channel Link
 https://www.youtube.com/@AboutHere
@@ -105,12 +105,81 @@ North America
 ### Language:
 English 
 
-https://www.youtube.com/@RailwaysExplained
-https://www.youtube.com/@MetroRailBlog
-https://www.youtube.com/@VanishingUnderground
-https://www.youtube.com/@MetroLiner
-https://www.youtube.com/@BrightTripTravel
-https://www.youtube.com/@JohnnyStrides
+## Name
+RailwaysExplained
 
+### Description 
+RailwaysExplained talks about the history and development of different urban train networks
+
+### Channel Link
+https://www.youtube.com/@RailwaysExplained
+
+### Coverage Region:
+Global
+
+### Language:
+English 
+
+## Name
+MetroRailBlog
+
+### Description 
+MetroRailBlog talka about rail projects in India
+
+### Channel Link
+https://www.youtube.com/@MetroRailBlog
+
+### Coverage Region:
+Asia
+
+### Language:
+English 
+
+## Name
+VanishingUnderground
+
+### Description 
+VanishingUnderground talks abouut historical network changes in North America cities
+
+### Channel Link
+https://www.youtube.com/@VanishingUnderground
+
+### Coverage Region:
+North America
+
+### Language:
+English 
+
+## Name
+MetroLiner
+
+### Description 
+MetroLiner talks abouut historical network changes in global cities
+
+### Channel Link
+https://www.youtube.com/@MetroLiner
+
+### Coverage Region:
+Global
+
+### Language:
+English 
+
+## Name
+BrightTripTravel
+
+### Description 
+BrightTripTravel explains the vibes in various  cities
+
+### Channel Link
+https://www.youtube.com/@BrightTripTravel
+
+### Coverage Region:
+Global
+
+### Language:
+English 
+
+https://www.youtube.com/@JohnnyStrides
 https://www.youtube.com/@PaigeMTL
 https://www.youtube.com/@strongtowns
