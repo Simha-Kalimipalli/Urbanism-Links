@@ -34,6 +34,41 @@ Useful APIS, Maps and links coming soon!
  - https://github.com/QuantumNovice/awesome-civil-engineering
  - https://github.com/briatte/awesome-network-analysis
  - https://github.com/ebrahimpichka/awesome-optimization
+# Misc Resources
+
+## Forums
+ - https://skyscraperpage.com/
+ - https://vibrantvictoria.ca/
+ - https://www.waterlooregionconnected.com/
+ - https://urbantoronto.ca/
+ - https://www.skyscrapercity.com/
+ - https://forum.agoramtl.com/
+ - https://skyrisecities.com/forum/
+ - https://www.city-data.com/
+ - https://www.cyburbia.org/
+
+## Institutions
+ - https://wuf.unhabitat.org/
+ - https://www.canu.ca/
+ - https://ncc-ccn.gc.ca/the-urbanism-lab
+ - https://canurb.org/
+ - https://www.ueforum.org/
+ - https://www.cnu.org/
+ - https://www.swril.ca/
+ - https://spacing.ca/
+ - https://www.womeninurbanism.ca/
+ - https://raic.org/
+ - https://urbanarium.org
+ - https://www.cip-icu.ca/
+ - https://urbandesignforum.org/
+ - https://www.urbanismnext.org/
+
+## Discords
+ - Railfans Canada 
+ - Global Transit and Infrastructure
+ - Alon Levy
+ - Adam Something
+ - Not Just Bikes
 
 
 
