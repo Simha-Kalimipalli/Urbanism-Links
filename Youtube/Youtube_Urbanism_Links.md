@@ -1,6 +1,6 @@
 # Youtube
 | Channel  | Description  | Coverage Region  | Language  |   
-|---|---|---|---|---|
+|---|---|---|---|
 |[RMTransit](https://www.youtube.com/@RMTransit)  | Reece explains the How-to's of transit | Global | English |
 |[CityNerd](https://www.youtube.com/c/citynerd)   | Ray ranks the urbanism of cities | North America | English |
 |   |   |   |   |   |
