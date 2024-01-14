@@ -169,7 +169,7 @@ English
 BrightTripTravel
 
 ### Description 
-BrightTripTravel explains the vibes in various  cities
+BrightTripTravel explains the vibes in various cities
 
 ### Channel Link
 https://www.youtube.com/@BrightTripTravel
@@ -180,6 +180,15 @@ Global
 ### Language:
 English 
 
-https://www.youtube.com/@JohnnyStrides
-https://www.youtube.com/@PaigeMTL
-https://www.youtube.com/@strongtowns
+ - https://www.youtube.com/@strongtowns
+ - https://www.youtube.com/@CityBeautiful
+ - https://www.youtube.com/@Lastlyy
+ - https://www.youtube.com/@AboutHere
+ - https://www.youtube.com/@RailwaysExplained
+ - https://www.youtube.com/@MetroRailBlog
+ - https://www.youtube.com/@VanishingUnderground
+ - https://www.youtube.com/@MetroLiner
+ - https://www.youtube.com/@BrightTripTravel
+ - https://www.youtube.com/@JohnnyStrides
+ - https://www.youtube.com/@PaigeMTL
+
