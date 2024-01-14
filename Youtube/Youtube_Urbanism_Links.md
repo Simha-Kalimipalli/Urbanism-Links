@@ -1,29 +1,17 @@
 # Youtube
-| Channel  | Description  | Coverage Region  | Language  |   |
+| Channel  | Description  | Coverage Region  | Language  |   
 |---|---|---|---|---|
-| ## [RMTransit](https://www.youtube.com/@RMTransit)  | Reece explains the How-to's of transit Global |English
-   |   |   |
-|   |   |   |   |   |
+|[RMTransit](https://www.youtube.com/@RMTransit)  | Reece explains the How-to's of transit | Global | English |
+|[CityNerd](https://www.youtube.com/c/citynerd)   | Ray ranks the urbanism of cities | North America | English |
 |   |   |   |   |   |
 
-  - 
 
 
  
 
-## CityNerd
 
-### Description
-Ray ranks cities in terms of urbanism
 
-### Channel Link
-https://www.youtube.com/c/citynerd
 
-### Coverage Region:
-North America
-
-### Language:
-English
 
 ## Alan Fisher
 
